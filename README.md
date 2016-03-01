@@ -5,3 +5,5 @@
 
 
 <img src="https://github.com/masapixyon/TripApp_OnlyAsForMockUp/blob/master/観光情報発信(App).pdf" width="300px">
+
+<object data="https://github.com/masapixyon/TripApp_OnlyAsForMockUp/blob/master/観光情報発信(App).pdf" width="400" height="300">
