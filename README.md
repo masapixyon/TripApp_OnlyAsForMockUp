@@ -3,3 +3,5 @@
 
 
 <img src="https://speakerdeck.com/masakun/tripapp-mock-up" width="350px">
+
+<div style="max-width: 350px">https://speakerdeck.com/masakun/tripapp-mock-up</div>
