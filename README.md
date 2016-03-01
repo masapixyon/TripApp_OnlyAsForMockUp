@@ -7,7 +7,4 @@
 <div style="max-width: 350px">https://speakerdeck.com/masakun/tripapp-mock-up</div>
 
 
-
-<div style="width: 560px">
-<script async class="speakerdeck-embed"〜>https://speakerdeck.com/masakun/tripapp-mock-up</script>
-</div>
+<div style="max-width: 350px">https://speakerdeck.com/masakun/tripapp-mock-up?slide=1</div>
