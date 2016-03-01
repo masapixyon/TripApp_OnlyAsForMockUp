@@ -9,4 +9,12 @@
 
 
 <div style="max-width: 350px">
-<script async class="speakerdeck-embed" data-id="42d155af6ab14970b56df5de7ebcef4e" data-ratio="0.601291837933059" src="//speakerdeck.com/assets/embed.js"></script></div>
+<script async class="speakerdeck-embed" data-id="42d155af6ab14970b56df5de7ebcef4e" data-ratio="0.601291837933059" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
+
+
+
+<div style="width: 344px”>
+<script async class="speakerdeck-embed" data-id="42d155af6ab14970b56df5de7ebcef4e" data-ratio="0.601291837933059" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
+
